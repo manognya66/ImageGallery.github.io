@@ -1,1 +1,1 @@
-# ImageGallery.github.io
+# ImageGallery
